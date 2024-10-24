@@ -5,7 +5,7 @@
 1. [Overview](#overview)
 2. [Prerequisites and Dependencies](#prerequisites-and-dependencies)
 3. [Installation and Setup Instructions](#installation-and-setup-instructions)
-   - [Step 1: Download and Install the iPlay Tracker](#step-1-download-and-install-the-iplay-tracker)
+   - [Step 1: Download and Install the Forza Tracker](#step-1-download-and-install-the-forza-tracker)
    - [Step 2: Configure Forza and Game Settings](#step-2-configure-forza-and-game-settings)
    - [Step 3: Using the Tracker During the Game](#step-3-using-the-tracker-during-the-game)
 4. [Common Pitfalls and Best Practices](#common-pitfalls-and-best-practices)
@@ -43,7 +43,7 @@ Before setting up the Forza Tracker, ensure the following:
 
 ## 3. Installation and Setup Instructions
 
-### <a name="step-1-download-and-install-the-iplay-tracker"></a> Step 1: Download and Install the Forza Tracker
+### <a name="step-1-download-and-install-the-forza-tracker"></a> Step 1: Download and Install the Forza Tracker
 
 1. **Download the Tracker**:
 
