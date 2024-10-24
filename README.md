@@ -59,7 +59,7 @@ Before setting up the Forza Tracker, ensure the following:
    - Before launching the tracker, **pin it to the Windows Taskbar** for easy access. (optional)
    - The tracker will run in full-screen mode and cannot be closed from within the application. To close it, press the **Windows button** to open the taskbar, hover over the taskbar, and right-click the tracker to close.
 
-   > **Note**: Do not open the tracker yet. Proceed to set up the game first.
+> **Note**: Do not open the tracker yet. Proceed to set up the game first.
 
 ---
 
