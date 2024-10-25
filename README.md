@@ -141,6 +141,7 @@ To ensure the tracker works correctly, you must configure **Forza Motorsport** i
 <a name="tracker-settings"></a>
 
 ## 4. Tracker Settings (pre-configured on install and optional)
+![forza-tracker-settings](https://github.com/user-attachments/assets/87485793-198c-4537-b6dd-4a294b1ddffa)
 
 The Forza Tracker allows you to adjust specific tracking and reporting settings within the game. To access the settings, use the keyboard shortcut **Ctrl + Alt + O + P**. The following configurations are available:
 
