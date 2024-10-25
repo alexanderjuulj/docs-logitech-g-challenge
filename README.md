@@ -8,8 +8,9 @@
    - [Step 1: Download and Install the Forza Tracker](#step-1-download-and-install-the-forza-tracker)
    - [Step 2: Configure Forza and Game Settings](#step-2-configure-forza-and-game-settings)
    - [Step 3: Using the Tracker During the Game](#step-3-using-the-tracker-during-the-game)
-4. [Common Pitfalls and Best Practices](#common-pitfalls-and-best-practices)
-5. [FAQ](#faq)
+4. [Tracker Settings](#tracker-settings)
+5. [Common Pitfalls and Best Practices](#common-pitfalls-and-best-practices)
+6. [FAQ](#faq)
 
 ---
 
@@ -54,12 +55,12 @@ Before setting up the Forza Tracker, ensure the following:
    - During installation, select **"Anyone who uses this computer"** to make the tracker accessible for all user accounts.
    - Choose a convenient installation location. This can be anywhere on your PC.
 
+> **Note**: Do not open the tracker yet. Proceed to set up the game first.
+
 3. **Taskbar Shortcut**:
 
    - Before launching the tracker, **pin it to the Windows Taskbar** for easy access. (optional)
    - The tracker will run in full-screen mode and cannot be closed from within the application. To close it, press the **Windows button** to open the taskbar, hover over the taskbar, and right-click the tracker to close.
-
-> **Note**: Do not open the tracker yet. Proceed to set up the game first.
 
 ---
 
@@ -118,20 +119,50 @@ To ensure the tracker works correctly, you must configure **Forza Motorsport** i
    - Open the tracker from the Windows Taskbar.
    - The tracker will display a **QR code**.
 
-3. **Scan the QR Code**:
+> **Firewall Settings**: Windows might ask you to either allow or block the app through Windows Firewall. It is essential that you allow it through the Firewall as it connects to our online services.
+
+3. **Configure the Forza Tracker (optional)**
+
+   - **Ctrl + Alt + O + P** allows you to configure the tracker.
+   - It is pre-configured on install for your event.
+   - More information in step **4. Tracker Settings**
+
+4. **Scan the QR Code**:
 
    - Use your mobile device to scan the code.
 
-4. **Return to the Game**:
+5. **Return to the Game**:
    - Press **Alt+Tab** to return to the Forza game.
 
 > **Important**: The first round should be played by a staff member as the initial round will have incorrect timing. After the first round, tracking will operate accurately for all future races.
 
 ---
 
+<a name="tracker-settings"></a>
+
+## 4. Tracker Settings (pre-configured on install and optional)
+
+The Forza Tracker allows you to adjust specific tracking and reporting settings within the game. To access the settings, use the keyboard shortcut **Ctrl + Alt + O + P**. The following configurations are available:
+
+1. **Google Sheet Tab**: Specify the Google Sheet tab where user information should be sent. The Google Sheet document is pre-defined.
+
+2. **Race Parameters**:
+
+   - **Total Laps**: Set the maximum number of laps each user can complete in a session before the QR code reappears.
+   - **Maximum Time (Minutes)**: Define the maximum time limit for each race session before the QR code reappears.
+
+3. **Conditional Data Submission**:
+   - **Track Name**: Specify the track name required for data submission.
+   - **Car Name**: Define the car name that must be used to validate data submission.
+   - **Fuel Level**: Set the minimum required fuel level for a lap to be recorded.
+   - **Invalid Laps**: Toggle whether or not laps marked as invalid (e.g., for track cutting) should be included in the submission.
+   - **Lap Time Filter**: Set a lap time threshold to exclude laps that are above or below a specified number of seconds.
+
+---
+
 <a name="common-pitfalls-and-best-practices"></a>
 
-## 4. Common Pitfalls and Best Practices
+## 5. Common Pitfalls and Best Practices
 
 ### Common Pitfalls:
 
@@ -149,7 +180,7 @@ To ensure the tracker works correctly, you must configure **Forza Motorsport** i
 
 <a name="faq"></a>
 
-## 5. FAQ
+## 6. FAQ
 
 ### Q1: Why is my first race time incorrect?
 
