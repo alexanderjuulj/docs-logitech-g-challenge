@@ -72,12 +72,20 @@ To ensure the tracker works correctly, you must configure **Forza Motorsport** i
 
    - Launch Forza Motorsport and navigate to **Play** > **Main Menu** > **Race** > **Free Play** > **Advanced Event Setup**.
 
-2. **Choose a Car**:
+2. **Data Out Settings**:
+
+   - Go to **Settings** > **Gameplay & HUD** and scroll to the bottom.
+   - Set **Data Out** to **On**.
+   - **Data Out IP Address** should be set to **127.0.0.1**.
+   - **Data Out Port** should be set to **9966**.
+   - **Car Out Packet Format** should be set to **Car Dash**.
+
+3. **Choose a Car**:
 
    - In the car selection menu, select **Buy or Rent Cars**.
    - Choose the **McLaren 1976 #11 M23** and select **Rent**.
 
-3. **Set Up Race Parameters**:
+4. **Set Up Race Parameters**:
 
    - Race Type: **Circuit Race**
    - Track: **Custom** > **Grand Oak Raceway, Club Circuit**
@@ -88,7 +96,7 @@ To ensure the tracker works correctly, you must configure **Forza Motorsport** i
    - Weather: **Clear**
    - Drivatars: **0**
 
-4. **Rules Settings**:
+5. **Rules Settings**:
 
    - Rules Preset: **Custom**
    - Damage: **Cosmetic Only**
@@ -96,12 +104,12 @@ To ensure the tracker works correctly, you must configure **Forza Motorsport** i
    - Rewind: **Off**
    - Race Start: **Rolling**
 
-5. **Additional Configurations**:
+6. **Additional Configurations**:
 
    - Fuel & Tire: **Fuel 100%**
    - Driving Assists: **Moderate**
 
-6. **Start the Race**:
+7. **Start the Race**:
    - Accept all settings and begin the race.
    - Wait for the countdown to end and the race to start.
 
@@ -120,7 +128,7 @@ To ensure the tracker works correctly, you must configure **Forza Motorsport** i
    - The tracker will display a **QR code**.
 
 > **Firewall Settings**: Windows might ask you to either allow or block the app through Windows Firewall. It is essential that you allow it through the Firewall as it connects to our online services.
-  
+
 3. **Configure the Forza Tracker**
 
    - **Ctrl + Alt + O + P** allows you to configure the tracker.
@@ -142,6 +150,7 @@ To ensure the tracker works correctly, you must configure **Forza Motorsport** i
 <a name="tracker-settings"></a>
 
 ## 4. Tracker Settings (pre-configured on install and optional)
+
 ![forza-tracker-settings](https://github.com/user-attachments/assets/87485793-198c-4537-b6dd-4a294b1ddffa)
 
 The Forza Tracker allows you to adjust specific tracking and reporting settings within the game. To access the settings, use the keyboard shortcut **Ctrl + Alt + O + P**. The following configurations are available:
