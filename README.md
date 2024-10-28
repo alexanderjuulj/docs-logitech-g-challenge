@@ -73,7 +73,7 @@ To ensure the tracker works correctly, you must configure **Forza Motorsport** i
    - Launch Forza Motorsport and navigate to **Play** > **Main Menu** > **Race** > **Free Play** > **Advanced Event Setup**.
 
 2. **Data Out Settings**:
-
+![dataOut](https://github.com/user-attachments/assets/34a7afdf-a689-43e9-81f4-edad603fef13)
    - Go to **Settings** > **Gameplay & HUD** and scroll to the bottom.
    - Set **Data Out** to **On**.
    - **Data Out IP Address** should be set to **127.0.0.1**.
